@@ -5,6 +5,6 @@ This is my epxansion for Game Dev Tycoon
 
 Aurthor: Rex0099
 
-Artwork: 
+Artwork: Gamingthrou
 
 Version: 0.1 (Alpha)
